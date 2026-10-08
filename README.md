@@ -1,15 +1,9 @@
-# Indice
+# Índice
 
-* ## Introducción
-
-* ## Sistemas de control de versiones: Git
-
-* ## Lenguaje de marcas: Markdown
-
-* ## Repositorio: GitHub
-
-* ## Conceptos básicos Git/GitHub
-
-  **Referencias**
-
-  **Autores**
+* [Introducción](introducción.md)
+* [Sistemas de control de versiones: Git](git.md)
+* [Lenguaje de marcas: Markdown](markdown.md)
+* [Repositorio: GitHub](github.md)
+* [Conceptos básicos Git/GitHub](conceptos.md)
+* [Referencias](referencias.md)
+* [Autores](autores.md)
