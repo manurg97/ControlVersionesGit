@@ -5,5 +5,8 @@
 * [Lenguaje de marcas: Markdown](markdown.md)
 * [Repositorio: GitHub](github.md)
 * [Conceptos básicos Git/GitHub](conceptos.md)
+
+## Información adicional
+
 * [Referencias](referencias.md)
 * [Autores](autores.md)
