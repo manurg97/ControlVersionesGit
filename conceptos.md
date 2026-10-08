@@ -71,7 +71,7 @@ Es decir, enviamos nuestros cambios hacia el repositorio remoto.
 
 ```bash
 git push
-``
+```
 ## Pull Request
 
 Un **Pull Request** es una solicitud para integrar nuestros cambios en la rama principal.
