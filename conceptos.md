@@ -71,3 +71,82 @@ Es decir, enviamos nuestros cambios hacia el repositorio remoto.
 
 ```bash
 git push
+``
+## Pull Request
+
+Un **Pull Request** es una solicitud para integrar nuestros cambios en la rama principal.
+
+Es como una solicitud de **revisión o aportación** para que nuestros cambios sean revisados antes de integrarlos.
+
+Normalmente se realiza desde la interfaz gráfica de GitHub.
+
+## Merge
+
+El **merge** sirve para integrar los cambios de una rama en otra.
+
+Por ejemplo, podemos integrar los cambios de una rama de trabajo en la rama principal.
+
+Cuando se realiza el **merge**, los cambios de las dos ramas quedan integrados.
+
+En GitHub, los cambios pueden ser revisados mediante un **Pull Request** antes de realizar el merge.
+
+# Las 3 áreas de Git
+
+Git trabaja con tres áreas diferentes:
+
+## 1. Working Area (Área de trabajo)
+
+Es el directorio en el que estamos trabajando.
+
+Aquí realizamos los cambios en los archivos del proyecto.
+
+## 2. Staging Area (Área de preparación)
+
+Es donde colocamos los archivos o cambios que queremos guardar en el próximo commit.
+
+Por ejemplo:
+
+    git add archivo.txt
+
+## 3. Repository (Repositorio)
+
+Es donde se almacenan los datos, los commits y todos los cambios realizados en el proyecto.
+
+# Git
+
+**Git** es un software de control de versiones distribuido que permite colaborar y trabajar con otras personas en la creación de un proyecto.
+
+Git permite:
+
+- Guardar diferentes versiones de un proyecto.
+- Registrar los cambios realizados.
+- Trabajar con diferentes ramas.
+- Recuperar versiones anteriores.
+- Colaborar con otras personas.
+
+# Markdown
+
+**Markdown** es un lenguaje de marcas que facilita la aplicación de formato a un texto para publicarlo en una página web.
+
+Permite crear fácilmente:
+
+- Títulos
+- Listas
+- Texto en **negrita**
+- Texto en *cursiva*
+- Enlaces
+- Código
+- Tablas
+
+# GitHub
+
+**GitHub** es una plataforma web para alojar proyectos que utiliza **Git** como herramienta de control de versiones.
+
+En GitHub se pueden almacenar:
+
+- Código
+- Documentación
+- Software
+- Ejemplos
+
+Además, permite trabajar y colaborar con otras personas en un mismo proyecto.
