@@ -133,4 +133,4 @@ Además, GitHub ha incorporado herramientas relacionadas con la **automatizació
 En definitiva, **GitHub no es solamente un lugar donde guardar código**, sino una plataforma completa que permite desarrollar proyectos, trabajar en equipo, compartir conocimientos y colaborar con desarrolladores de todo el mundo.
 
 ---
-![logo github] (./img/github-logo.png)
+![logo github] (/img/github-logo.png)
